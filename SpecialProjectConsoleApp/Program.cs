@@ -10,6 +10,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            string textToShow = "are you sure ?";
+
             Console.WriteLine("Hello world");
             Console.ReadLine();
         }
