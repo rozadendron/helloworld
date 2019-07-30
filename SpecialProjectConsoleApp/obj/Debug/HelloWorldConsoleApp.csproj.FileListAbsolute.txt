@@ -1,0 +1,6 @@
+C:\Projects\Special\ConsoleApp1\bin\Debug\HelloWorldConsoleApp.exe.config
+C:\Projects\Special\ConsoleApp1\bin\Debug\HelloWorldConsoleApp.exe
+C:\Projects\Special\ConsoleApp1\bin\Debug\HelloWorldConsoleApp.pdb
+C:\Projects\Special\ConsoleApp1\obj\Debug\HelloWorldConsoleApp.csproj.CoreCompileInputs.cache
+C:\Projects\Special\ConsoleApp1\obj\Debug\HelloWorldConsoleApp.exe
+C:\Projects\Special\ConsoleApp1\obj\Debug\HelloWorldConsoleApp.pdb
